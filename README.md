@@ -18,8 +18,8 @@
 - **Creative DSA learning platforms** and **collaborative tools** 🤝
 
 ## 📫 How to Reach Me
-- ✉️ Email: **your.email@example.com**
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/jithin-jacob-25)
+- ✉️ Email: **jacobtjit2000@gmail.com**
+- 💼 LinkedIn: www.linkedin.com/in/jithin-t-jacob-63a389191
 
 ## 😄 Pronouns
 He/Him 👨‍💻
