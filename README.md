@@ -13,7 +13,7 @@
 - **WebRTC & P2P communication** for real-time collaboration 📡
 
 ## 💞️ Looking to Collaborate On
-- Open-source **web development** and **cybersecurity** projects 🛠️
+- Open-source **web development** projects 🛠️
 - **MERN stack** and **full-stack** applications 💻
 - **Creative DSA learning platforms** and **collaborative tools** 🤝
 
