@@ -19,7 +19,7 @@
 
 ## 📫 How to Reach Me
 - ✉️ Email: **jacobtjit2000@gmail.com**
-- 💼 LinkedIn: www.linkedin.com/in/jithin-t-jacob-63a389191
+- 💼 LinkedIn: https://www.linkedin.com/in/jithintjc/
 
 ## 😄 Pronouns
 He/Him 👨‍💻
