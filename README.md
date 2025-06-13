@@ -4,9 +4,7 @@
 
 ## 👀 Interests
 - Building **scalable and high-performance** web applications 🚀
-- Cybersecurity, **penetration testing**, and digital forensics 🔐
 - Exploring **MERN Stack, Next.js, and Tailwind CSS** 💡
-- Creating **collaborative tools** like real-time editors & platforms ✨
 
 ## 🌱 Currently Learning
 - **Cloud computing & Supabase** for scalable backends ☁️
