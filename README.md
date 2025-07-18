@@ -13,7 +13,6 @@
 ## 💞️ Looking to Collaborate On
 - Open-source **web development** projects 🛠️
 - **MERN stack** and **full-stack** applications 💻
-- **Creative DSA learning platforms** and **collaborative tools** 🤝
 
 ## 📫 How to Reach Me
 - ✉️ Email: **jacobtjit2000@gmail.com**
